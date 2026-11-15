@@ -44,6 +44,15 @@ Each mission represents an independent stage of practical investigation, complet
 
 ---
 
+## My Learning
+
+Working through these practical missions has provided key insights into computer operations:
+1. **Command-Line Control:** Using Terminal commands (`pwd`, `ls -lah`, `cat`, redirection `>` and `>>`, and pipes `|`) showed me how software developers navigate and manipulate files efficiently without relying on a graphical user interface.
+2. **Operating System Architecture:** Inspecting active processes (`ps`), process IDs (PIDs), and storage (`df -h`) helped me understand the critical role the operating system plays as a resource manager and coordinator between hardware and software.
+3. **Data Representation & Encodings:** Performing manual number conversions and building the Python converter made it clear that all higher-level data—whether decimal integers, hexadecimal addresses, or ASCII characters—is fundamentally represented and computed as binary electronic bits.
+
+---
+
 ## Running the Python Programs
 
 ### 1. Hello World (`mission-04-programs/hello.py`)
