@@ -23,7 +23,7 @@ Each mission represents an independent stage of practical investigation, complet
 | **Mission 0** | Repository and workspace setup | Completed | [mission-00-setup/README.md](mission-00-setup/README.md) |
 | **Mission 1** | Computer fundamentals and IPOS | Completed | [mission-01-computer-basics/README.md](mission-01-computer-basics/README.md) |
 | **Mission 2** | Terminal and file management | Completed | [mission-02-terminal/README.md](mission-02-terminal/README.md) |
-| **Mission 3** | Operating system, processes, and permissions | Pending | [mission-03-operating-system/README.md](mission-03-operating-system/README.md) |
+| **Mission 3** | Operating system, processes, and permissions | Completed | [mission-03-operating-system/README.md](mission-03-operating-system/README.md) |
 | **Mission 4** | How programs run (Compilers vs Interpreters) | Pending | [mission-04-programs/README.md](mission-04-programs/README.md) |
 | **Mission 5** | Number systems, Python converter, and encoding | Pending | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
 | **Mission 6** | Git, GitHub, branches, and Pull Requests | Pending | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
