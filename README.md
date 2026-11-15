@@ -3,8 +3,9 @@
 **Course / Subject:** SnAI — Diwali Independent Learning Assignment  
 **Student Name:** Umair  
 **USN (Last 4 Digits):** 8430  
-**Repository Name:** digital-detective-8430  
-**Operating System:** macOS (Apple Silicon arm64)  
+**GitHub Repository Name:** digital-detective-8430  
+**GitHub Repository URL:** https://github.com/umairkai/digital-detective-8430  
+**Operating System:** macOS 27.2 (Apple Silicon arm64)  
 
 ---
 
@@ -28,7 +29,7 @@ Each mission represents an independent stage of practical investigation, complet
 | **Mission 5** | Number systems, Python converter, and encoding | Completed | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
 | **Mission 6** | Git, GitHub, branches, and Pull Requests | Completed | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
 | **Mission 7** | Computer networks and website lookup | Completed | [mission-07-networking/README.md](mission-07-networking/README.md) |
-| **Mission 8** | Final review, audit, and submission | Pending | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
+| **Mission 8** | Final review, audit, and submission | Completed | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
 
 ---
 
@@ -44,12 +45,23 @@ Each mission represents an independent stage of practical investigation, complet
 
 ---
 
+## Summary of Learning
+
+Through the practical exercises in this assignment, I developed a clear, grounded understanding of how computers work across multiple layers:
+1. **Command-Line Confidence:** Transitioning from the graphical Finder to macOS Terminal commands (`pwd`, `ls -lah`, `cat`, pipes `|`, redirection `>` and `>>`) helped me understand how developers directly inspect and manage system files and streams.
+2. **System Responsibilities:** Exploring active processes (`ps`), process IDs (PIDs), and storage (`df -h`) demonstrated how the operating system coordinates hardware resources, isolates running programs, and protects data using permission bits (`rwx`).
+3. **Data Representation:** Solving number conversions by hand and writing the Python converter reinforced that all digital data—from integers to characters—is fundamentally stored and processed as binary bits.
+4. **Professional Workflow:** Practising Git version control with dedicated commits, feature branches (`update-about`), and Pull Requests showed me how modern software teams collaborate safely without overwriting code.
+
+---
+
 ## Running the Python Programs
 
 ### 1. Hello World (`mission-04-programs/hello.py`)
 ```bash
 python3 mission-04-programs/hello.py
 ```
+Outputs the greeting string `Hello from Python`.
 
 ### 2. Number Converter (`mission-05-numbers-data/number_converter.py`)
 ```bash
