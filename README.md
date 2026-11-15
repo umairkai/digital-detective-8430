@@ -27,7 +27,7 @@ Each mission represents an independent stage of practical investigation, complet
 | **Mission 4** | How programs run (Compilers vs Interpreters) | Completed | [mission-04-programs/README.md](mission-04-programs/README.md) |
 | **Mission 5** | Number systems, Python converter, and encoding | Completed | [mission-05-numbers-data/README.md](mission-05-numbers-data/README.md) |
 | **Mission 6** | Git, GitHub, branches, and Pull Requests | Completed | [mission-06-git-github/README.md](mission-06-git-github/README.md) |
-| **Mission 7** | Computer networks and website lookup | Pending | [mission-07-networking/README.md](mission-07-networking/README.md) |
+| **Mission 7** | Computer networks and website lookup | Completed | [mission-07-networking/README.md](mission-07-networking/README.md) |
 | **Mission 8** | Final review, audit, and submission | Pending | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
 
 ---
