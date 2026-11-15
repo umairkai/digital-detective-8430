@@ -1,0 +1,2 @@
+First line: Exploring Terminal commands
+Second line: Appending text without overwriting
